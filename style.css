@@ -1,0 +1,27 @@
+.navbar-nav {
+  --bs-nav-link-color: hsl(236, 13%, 42%);
+  --bs-nav-link-hover-color: hsl(35, 77%, 62%);
+}
+.active {
+  color: hsl(35, 77%, 62%);
+}
+.nav-link {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.note {
+  color: hsl(233, 8%, 79%);
+  font-size: 1rem;
+}
+
+.fw-b {
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.mybutton {
+  background-color: hsl(5, 85%, 63%);
+  border: transparent;
+  color: white;
+}
